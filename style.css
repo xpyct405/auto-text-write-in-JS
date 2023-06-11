@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(119, 26, 119);
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    background: url(https://agalibr.ru/wp-content/uploads/2023/03/01f631f9-b299-4c1c-bd6e-829f49c984b6.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #fff;
+}
+
+.container {
+    margin-top: 440px;
+    max-width: 900px;
+    font-size: 2rem;
+    color: rgb(255, 255, 255);
+}
